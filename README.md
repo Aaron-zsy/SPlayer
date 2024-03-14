@@ -22,11 +22,9 @@
 
   > 请注意，本程序不打算开发移动端，也不会对移动端进行完美适配，仅保证基础可用性
 
-- 欢迎各位大佬 `Star` 😍
-
 ## 👀 Demo
 
-- [SPlayer](https://music.imsyy.top/)
+- ~~[SPlayer](https://music.imsyy.top/)~~
 
 ## 🎉 功能
 
@@ -58,7 +56,7 @@
 
 ## 🖼️ Screenshots
 
-> 开发中，仅供参考
+> 仅供参考
 
 <details>
 <summary>主页面</summary>
@@ -102,17 +100,17 @@
 
 </details>
 
-## 📦️ 获取
+~~## 📦️ 获取~~
 
-### 稳定版
+~~### 稳定版~~
 
-通常情况下，可以在 [Releases](https://github.com/imsyy/SPlayer/releases) 中获取稳定版
+~~通常情况下，可以在 [Releases](https://github.com/imsyy/SPlayer/releases) 中获取稳定版~~
 
-### 开发版
+~~### 开发版~~
 
-可以通过 `GitHub Actions` 工作流获取最新的开发版，目前开发版仅提供 `Win` 版本
+~~可以通过 `GitHub Actions` 工作流获取最新的开发版，目前开发版仅提供 `Win` 版本~~
 
-[Dev Workflow](https://github.com/imsyy/SPlayer/actions/workflows/build.yml)
+~~[Dev Workflow](https://github.com/imsyy/SPlayer/actions/workflows/build.yml)~~
 
 ## ⚙️ Docker 部署
 
